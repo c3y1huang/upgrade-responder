@@ -1,4 +1,4 @@
-# Upgrade Responder[![Build Status](https://drone-publish.longhorn.io/api/badges/longhorn/upgrade-responder/status.svg)](https://drone-publish.longhorn.io/longhorn/upgrade-responder)
+# Upgrade Responder
 
 ## Overview
 Upgrade Responder provides a way to notify the applications running remotely when there is a new version of the application become available. 
